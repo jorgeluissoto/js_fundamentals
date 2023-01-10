@@ -5,7 +5,7 @@
 // name = 'Steve Smith';
 // console.log(name);
 
-// // Init var
+// Init var
 // var greeting;
 // console.log(greeting);
 // greeting = 'Hello';
@@ -14,7 +14,7 @@
 // // letters, numbers, _, $
 // // Can not start with number
 
-// // Multi word vars
+// Multi word vars
 // var firstName = 'John'; // Camel case
 // var first_name = 'Sara'; // Underscore
 // var FirstName = 'Tom'; // Pascal case
@@ -27,7 +27,6 @@
 // name = 'Steve Smith';
 // console.log(name);
 
-
 // CONST
 // const name = 'John';
 // console.log(name);
@@ -36,13 +35,13 @@
 // Have to assign a value
 // const greeting;
 
-const person = {
-  name: 'John',
-  age: 30
-}
+// const person = {
+//   name: 'John',
+//   age: 30
+// }
 
-person.name = 'Sara';
-person.age = 32;
+// person.name = 'Sara';
+// person.age = 32;
 
 // console.log(person);
 

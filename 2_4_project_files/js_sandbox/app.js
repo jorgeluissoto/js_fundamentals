@@ -2,7 +2,7 @@
 
 // String
 const name = 'John Doe';
-// Number
+// Number includes floats
 const age = 45;
 // Boolean
 const hasKids = true;
@@ -17,10 +17,10 @@ const sym = Symbol();
 // Array
 const hobbies = ['movies', 'music'];
 // Object literal
-const address = {
-  city: 'Boston',
-  state: 'MA'
-}
-const today = new Date();
-console.log(today);
-console.log(typeof today);
+// const address = {
+//   city: 'Boston',
+//   state: 'MA'
+// }
+// const today = new Date();
+// console.log(today);
+console.log(typeof hobbies);
